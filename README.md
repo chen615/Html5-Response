@@ -1,5 +1,4 @@
 Html5-Response
 ==============
 
-html5 wap
-Ê¹ÓÃÒ»ÌÔÊ¸Á¿×ÖÌå http://iconfont.cn
+html5 wap ä½¿ç”¨ä¸€æ·˜çŸ¢é‡å­—ä½“ http://iconfont.cn
