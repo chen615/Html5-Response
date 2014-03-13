@@ -1,4 +1,5 @@
-Html5-Response
+Html5
 ==============
 
-html5 wap 使用一淘矢量字体 http://iconfont.cn
+* html5 wap
+* 使用一淘矢量字体 http://iconfont.cn
